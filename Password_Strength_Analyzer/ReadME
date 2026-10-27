@@ -1,0 +1,10 @@
+## a function that evaluates a password and categorizes it as "Weak", "Medium", or "Strong".
+
+
+#Requirements:
+
+Weak: Less than 8 characters, or contains only numbers/only letters.
+
+Medium: 8 or more characters, contains both letters and numbers, but lacks special characters or mixed casing.
+
+Strong: 8 or more characters, contains uppercase, lowercase, numbers, and at least one special character (!@#$%^&*).
